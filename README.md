@@ -1,5 +1,5 @@
 # Hudson de Oliveira Felipe
-Desenvolvedor de Software a 7 anos, apesar de ter ficado afastado profissionalmente da área de TI por 7 anos (entre 2014 e 2021), explorando outras áreas, me mantive continuamente estudando e aperfeiçoando meus conhecimentos na área de desenvolvimento de software, que sempre foi mais do que uma profissão para mim, sempre foi um hobby e uma paixão.
+Desenvolvedor de Software a 7 anos, apesar de ter ficado afastado profissionalmente da área de TI entre 2014 e 2021 explorando outras áreas, me mantive continuamente estudando e aperfeiçoando meus conhecimentos na área de desenvolvimento de software, que sempre foi mais do que uma profissão para mim, sempre foi um hobby e uma paixão.
 
 Hoje atuo como Desenvolvedor FullStack Java/Angular, desenvolvendo micro serviços com Java 11/17, integrando com banco de dados Oracle e SQL Server e sistemas web com Angular 12+, além de realizar manutenção em sistemas legado com Java 8.
 
