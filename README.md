@@ -5,8 +5,8 @@ Hoje atuo como Desenvolvedor FullStack Java/Angular, desenvolvendo micro serviç
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:SEUEMAIL@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/hudsonof/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:hudson.o.f@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/hudson_o_f/)
 
 ### Habilidades
